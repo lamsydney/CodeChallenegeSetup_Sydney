@@ -1,0 +1,19 @@
+/* Added attributes to center the website and change the buttons' appearances */
+#payBtn {
+    display: none;
+    margin: auto;
+}
+
+.container {
+    text-align: center;
+}
+
+.imageContainer {
+    text-align: left;
+}
+
+.catImage {
+    width: 170px;
+    height: 150px;
+    margin: 10px;
+}
